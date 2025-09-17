@@ -1,0 +1,453 @@
+{
+  "cities": [
+    {
+      "name": "Sydney",
+      "slug": "sydney",
+      "state": "NSW",
+      "coordinates": {
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "locations": [
+        {
+          "id": 237,
+          "name": "Cleanaway Lucas Heights Resource Recovery Park - Transfer Station",
+          "address": "Little Forest Road, Sydney, New South Wales, 2234",
+          "latitude": -34.044734,
+          "longitude": 150.97355,
+          "phone": "",
+          "city": "Sydney",
+          "state": "New South Wales",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Asbestos|Batteries|Construction Material|Metals|Paper &amp; Cardboard|Plastics|Rubber"
+          ],
+          "openingHours": "ed in 1987, the Lucas Heights Resource Recovery Park spans approximately 165 hectares and over 157,0",
+          "fees": {},
+          "region": "Sydney",
+          "permalink": "https://www.rubbishtips.com.au/sydney/suez-lucas-heights-resource-recovery-park-lucas-heights-transfer-station/",
+          "content": "The SUEZ Lucas Heights facility helps divert organics from going to landfill by converting it into high-quality composts and soil conditioners. The capacity of this facility is 50,000 tonnes of organic materials per year. Opened in 1987, the Lucas Heights Resource Recovery Park spans approximately 165 hectares and over 157,000 cars and trucks use the park each year."
+        },
+        {
+          "id": 238,
+          "name": "Cleanaway Auburn Resource Recovery Centre - Sydney Olympic Park - Transfer Station",
+          "address": "Old Hill Link, Sydney, New South Wales, 2127",
+          "latitude": -33.843226,
+          "longitude": 151.058884,
+          "phone": "",
+          "city": "Sydney",
+          "state": "New South Wales",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Construction Material|Green Waste|Metals|Paper &amp; Cardboard|Plastics|Rubber"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Sydney",
+          "permalink": "https://www.rubbishtips.com.au/sydney/suez-auburn-resource-recovery-centre-sydney-olympic-park-transfer-station/",
+          "content": "The Auburn Resource Recovery Centre provides drop-off facilities for waste disposal and recycling within Sydney."
+        },
+        {
+          "id": 239,
+          "name": "Cleanaway Artarmon Resource Recovery Centre - Transfer Station",
+          "address": "12 Lanceley Place, Sydney, New South Wales, 2064",
+          "latitude": -33.819505,
+          "longitude": 151.186842,
+          "phone": "",
+          "city": "Sydney",
+          "state": "New South Wales",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Construction Material|Electronics|Metals|Paper &amp; Cardboard|Plastics|Rubber"
+          ],
+          "openingHours": "ed in 1998 and upgraded in 2015, our Artarmon centre is located just off Sydney’s Pacific Highway",
+          "fees": {},
+          "region": "Sydney",
+          "permalink": "https://www.rubbishtips.com.au/sydney/suez-artarmon-resource-recovery-centre-artarmon-transfer-station/",
+          "content": "Opened in 1998 and upgraded in 2015, our Artarmon centre is located just off Sydney’s Pacific Highway. It provides reliable and accessible waste disposal for residents, businesses and local councils in the city’s central and northern suburbs."
+        },
+        {
+          "id": 240,
+          "name": "Cleanaway Ryde Resource Recovery Centre - North Ryde - Transfer Station",
+          "address": "Wicks Road, Sydney, New South Wales, 2113",
+          "latitude": -33.785849,
+          "longitude": 151.138499,
+          "phone": "",
+          "city": "Sydney",
+          "state": "New South Wales",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Construction Material|Green Waste|Metals|Paper &amp; Cardboard"
+          ],
+          "openingHours": "ing in 1995, our waste management centre at Ryde has provided a convenient service for the disposal",
+          "fees": {},
+          "region": "Sydney",
+          "permalink": "https://www.rubbishtips.com.au/sydney/suez-ryde-resource-recovery-centre-north-ryde-transfer-station/",
+          "content": "Since opening in 1995, our waste management centre at Ryde has provided a convenient service for the disposal and recycling of a broad range of materials to residents, businesses and local councils in Sydney’s north and north-west."
+        },
+        {
+          "id": 241,
+          "name": "Cleanaway Belrose Resource Recovery Centre - Transfer Station",
+          "address": "Crozier Road, Sydney, New South Wales, 2085",
+          "latitude": -33.71618,
+          "longitude": 151.215469,
+          "phone": "",
+          "city": "Sydney",
+          "state": "New South Wales",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Construction Material|Electronics|Green Waste|Metals|Paper &amp; Cardboard|Plastics|Rubber"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Sydney",
+          "permalink": "https://www.rubbishtips.com.au/sydney/suez-belrose-resource-recovery-centre-belrose-transfer-station/",
+          "content": ""
+        },
+        {
+          "id": 242,
+          "name": "SUEZ Seven Hills Resource Recovery Centre - Transfer Station",
+          "address": "Powers Road, Sydney, New South Wales, 2147",
+          "latitude": -33.775729,
+          "longitude": 150.952007,
+          "phone": "",
+          "city": "Sydney",
+          "state": "New South Wales",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Batteries|Construction Material|Electronics|Green Waste|Metals|Paper &amp; Cardboard|Plastics|Rubber"
+          ],
+          "openingHours": "ed in 1998 and is  24 a day on weekdays",
+          "fees": {},
+          "region": "Sydney",
+          "permalink": "https://www.rubbishtips.com.au/sydney/suez-seven-hills-resource-recovery-centre-seven-hills-transfer-station/",
+          "content": "SUEZ waste management centre at Seven Hills opened in 1998 and is open 24 hours a day on weekdays. The 1.8-hectare site services residents, businesses and local councils across Sydney’s west and north-west, allowing for the disposal and recycling of a broad range of materials."
+        },
+        {
+          "id": 243,
+          "name": "Veolia Wetherill Resource Recovery Facility - Transfer Station",
+          "address": "Davis Road, Sydney, New South Wales, 2164",
+          "latitude": -33.836345,
+          "longitude": 150.896853,
+          "phone": "",
+          "city": "Sydney",
+          "state": "New South Wales",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Asbestos|Batteries|Construction Material|Electronics|Green Waste|Metals|Paper &amp; Cardboard|Plastics|Rubber"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Sydney",
+          "permalink": "https://www.rubbishtips.com.au/sydney/suez-wetherill-resource-recovery-facility-wetherill-park-transfer-station/",
+          "content": "Our Resource Recovery &amp; Recycling Facilities provide a consolidation point for unsorted material collected from residential or commercial premises and from public drop-off facilities. These facilities are purpose built to accept, process and transform materials into valuable, beneficial products for reuse."
+        },
+        {
+          "id": 244,
+          "name": "Veolia Eastern Creek Resource Recovery Park - Transfer Station",
+          "address": "Wallgrove Road, Sydney, New South Wales, 2766",
+          "latitude": -33.806457,
+          "longitude": 150.851654,
+          "phone": "",
+          "city": "Sydney",
+          "state": "New South Wales",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Green Waste|Metals|Paper &amp; Cardboard|Plastics"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Sydney",
+          "permalink": "https://www.rubbishtips.com.au/sydney/suez-eastern-creek-resource-recovery-park-eastern-creek-transfer-station/",
+          "content": "Eastern Creek Resource Recovery Park in Sydney’s west is home to two innovative waste processing facilities: an ORRF, diverting organics from landfill and converting them into valuable resources for healthy plant growth; and an ARRT, which uses advanced specialist technologies to recover and recycle more from waste. Together, these facilities lead the change from traditional waste disposal to economically sustainable resource recovery solutions."
+        }
+      ]
+    },
+    {
+      "name": "Melbourne",
+      "slug": "melbourne",
+      "state": "VIC",
+      "coordinates": {
+        "lat": -37.8136,
+        "lng": 144.9631
+      },
+      "locations": [
+        {
+          "id": 137,
+          "name": "Kartaway East Brunswick Public Transfer Station",
+          "address": "Kirkdale Street, Melbourne, Victoria, 3057",
+          "latitude": -37.770248,
+          "longitude": 144.982574,
+          "phone": "",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Construction Material|Metals|Paper &amp; Cardboard|Plastics|Rubber"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Melbourne",
+          "permalink": "https://www.rubbishtips.com.au/melbourne/kartaway-east-brunswick-public-transfer-station-east-brunswick-transfer-station/",
+          "content": ""
+        },
+        {
+          "id": 185,
+          "name": "Moonee Valley Transfer Station - Aberfieldia",
+          "address": "188 Holmes Road, Melbourne, Victoria, 3040",
+          "latitude": -37.764235,
+          "longitude": 144.902136,
+          "phone": "",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Clothes &amp; Textiles|Electronics|Furniture|Green Waste|Plastics|Rubber"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Melbourne",
+          "permalink": "https://www.rubbishtips.com.au/melbourne/moonee-valley-transfer-station-avberfieldia-transfer-station/",
+          "content": ""
+        },
+        {
+          "id": 204,
+          "name": "Knox Transfer Station - Wantirna South",
+          "address": "George Street, Melbourne, Victoria, 3152",
+          "latitude": -37.882837,
+          "longitude": 145.213378,
+          "phone": "",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Construction Material|Green Waste|Metals|Paper &amp; Cardboard|Plastics|Rubber"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Melbourne",
+          "permalink": "https://www.rubbishtips.com.au/melbourne/knox-transfer-station-wantirna-south-transfer-station/",
+          "content": ""
+        },
+        {
+          "id": 228,
+          "name": "Hampton Park Resource Recovery Park - Transfer Station",
+          "address": "274 Hallam Road, Melbourne, Victoria, 3976",
+          "latitude": -38.05407,
+          "longitude": 145.267328,
+          "phone": "",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Clothes &amp; Textiles|Construction Material|Green Waste|Metals|Paper &amp; Cardboard|Plastics"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Melbourne",
+          "permalink": "https://www.rubbishtips.com.au/melbourne/hampton-park-resource-recovery-park-hampton-transfer-station/",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "name": "Brisbane",
+      "slug": "brisbane",
+      "state": "QLD",
+      "coordinates": {
+        "lat": -27.4698,
+        "lng": 153.0251
+      },
+      "locations": [
+        {
+          "id": 469,
+          "name": "Resource Recoveries and Recycling - Sheldon - Rubbish Tip",
+          "address": "706 Mount Cotton Road, Queensland, 4157",
+          "latitude": -27.576635,
+          "longitude": 153.21936,
+          "phone": "",
+          "city": "",
+          "state": "Queensland",
+          "type": "Rubbish Tip",
+          "acceptedMaterials": [
+            "Cars &amp; Other Vehicles|Clothes &amp; Textiles|Construction Material|Electronics|Green Waste|Metals|Paper &amp; Cardboard|Plastics|Rubber"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Brisbane",
+          "permalink": "https://www.rubbishtips.com.au/brisbane/resource-recoveries-and-recycling-sheldon-rubbish-tip/",
+          "content": "When the different materials are seperarted before being loaded, the gate rate will decrease because it will be easier to sort through the commercial/industrial waste. When renovating or demolishing, a handy tip would be to seperate your waste before hiring a skip to reduce air space and the recycling fee."
+        }
+      ]
+    },
+    {
+      "name": "Perth",
+      "slug": "perth",
+      "state": "WA",
+      "coordinates": {
+        "lat": -31.9505,
+        "lng": 115.8605
+      },
+      "locations": [
+        {
+          "id": 78,
+          "name": "West Metro Recycling - Shenton Park - Recycling Centre",
+          "address": "Jfr Mcgeough Resource Recovery Facility, 60 Lemnos St, Shenton Park WA 6008, Australia",
+          "latitude": -31.95761,
+          "longitude": 115.792198,
+          "phone": "",
+          "city": "",
+          "state": "",
+          "type": "Recycling Centre",
+          "acceptedMaterials": [
+            "Batteries|Cars &amp; Other Vehicles|Chemicals &amp; Liquids|Clothes &amp; Textiles|Construction Material|Electronics|Furniture|Green Waste|Metals|Paper &amp; Cardboard|Plastics|Rubber"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Perth",
+          "permalink": "https://www.rubbishtips.com.au/perth/residential-west-metro-recycling-shenton-park-recycling-centre/",
+          "content": "To help you manage your waste wisely, the WMRC provides comprehensive waste recycling, treatment and disposal services for acceptable items, seven days a week, for residents, businesses and councils. In its capacity as a transfer station, the West Metro Recycling Centre aggregates, compacts and loads large volumes of municipal solid waste into silos for effective and efficient transfer to distant sites for appropriate treatment or disposal."
+        },
+        {
+          "id": 91,
+          "name": "Balcatta Recycling Centre",
+          "address": "Balcatta Road, Western Australia, 6021",
+          "latitude": -31.864536,
+          "longitude": 115.820982,
+          "phone": "",
+          "city": "",
+          "state": "Western Australia",
+          "type": "Recycling Centre",
+          "acceptedMaterials": [
+            "Batteries|Cars &amp; Other Vehicles|Chemicals &amp; Liquids|Clothes &amp; Textiles|Construction Material|Electronics|Furniture|Green Waste|Metals|Paper &amp; Cardboard|Plastics|Rubber"
+          ],
+          "openingHours": "ing , fees and what items you can dispose of",
+          "fees": {},
+          "region": "Perth",
+          "permalink": "https://www.rubbishtips.com.au/perth/balcatta-recycling-centre-balcatta-recycling-centre/",
+          "content": "The City of Stirling has a dedicated recycling centre, where you can dispose of recyclables and reusable items, household hazardous waste, general waste and car tyres. Find out about location, opening hours, fees and what items you can dispose of."
+        },
+        {
+          "id": 136,
+          "name": "Mandurah Tip: Transfer Station - Parklands",
+          "address": "100 Gordon Rd, Parklands WA 6180, Australia",
+          "latitude": -32.511046,
+          "longitude": 115.75631,
+          "phone": "",
+          "city": "",
+          "state": "",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Chemicals &amp; Liquids|Electronics|Metals"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Perth",
+          "permalink": "https://www.rubbishtips.com.au/perth/mandurah-tip-transfer-station-parklands-transfer-station/",
+          "content": "Cleanaway operates Mandurah’s transfer station. As alliance partner of the City of Mandurah, Cleanaway provides residential and business waste management services throughout Mandurah. To find out residential &amp; commercial rubbish tip fees &amp; acceptable wastes, visit our website."
+        },
+        {
+          "id": 703,
+          "name": "Brajkovich Demolition and Salvage - Bullsbrook - Rubbish Tip",
+          "address": "Walyunga Road, Western Australia",
+          "latitude": -31.73553,
+          "longitude": 116.044551,
+          "phone": "",
+          "city": "",
+          "state": "Western Australia",
+          "type": "Waste Facility",
+          "acceptedMaterials": [
+            "Construction Material|Green Waste|Metals|Paper &amp; Cardboard|Plastics"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Perth",
+          "permalink": "https://www.rubbishtips.com.au/perth/brajkovich-demolition-and-salvage-bullsbrook-rubbish-tip/",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "name": "Adelaide",
+      "slug": "adelaide",
+      "state": "SA",
+      "coordinates": {
+        "lat": -34.9285,
+        "lng": 138.6007
+      },
+      "locations": [
+        {
+          "id": 513,
+          "name": "Edinburgh North Resource Recovery Centre - Transfer Station",
+          "address": "Gate, 3 Bellchambers Rd, Edinburgh North SA 5113, Australia",
+          "latitude": -34.710074,
+          "longitude": 138.65919,
+          "phone": "",
+          "city": "",
+          "state": "",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Clothes &amp; Textiles|Construction Material|Furniture|Green Waste|Metals|Paper &amp; Cardboard|Plastics"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Adelaide",
+          "permalink": "https://www.rubbishtips.com.au/adelaide/edinburgh-north-resource-recovery-centre-edinburgh-north-transfer-station/",
+          "content": "The Northern Adelaide Waste Management Authority has two Resource Recovery Centres (RRC) where residents of the Salisbury, Playford and Gawler Councils can donate, recycle and dispose of a range of items. Trucks up to 3 tonne tare are welcome to access both facilities (contact Edinburgh North RRC for exceptions with heavier vehicles)."
+        },
+        {
+          "id": 514,
+          "name": "Pooraka Resource Recovery Centre - Transfer Station",
+          "address": "Research Road, Adelaide, South Australia, 5095",
+          "latitude": -34.816099,
+          "longitude": 138.634368,
+          "phone": "",
+          "city": "Adelaide",
+          "state": "South Australia",
+          "type": "Transfer Station",
+          "acceptedMaterials": [
+            "Cars &amp; Other Vehicles|Clothes &amp; Textiles|Construction Material|Electronics|Furniture|Green Waste|Metals|Paper &amp; Cardboard|Plastics|Rubber"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Adelaide",
+          "permalink": "https://www.rubbishtips.com.au/adelaide/pooraka-resource-recovery-centre-pooraka-transfer-station/",
+          "content": "The Northern Adelaide Waste Management Authority has two Resource Recovery Centres (RRC) where residents of the Salisbury, Playford and Gawler Councils can donate, recycle and dispose of a range of items. Trucks up to 3 tonne tare are welcome to access both facilities (contact Edinburgh North RRC for exceptions with heavier vehicles)."
+        }
+      ]
+    },
+    {
+      "name": "Hobart",
+      "slug": "hobart",
+      "state": "TAS",
+      "coordinates": {
+        "lat": -42.8821,
+        "lng": 147.3272
+      },
+      "locations": [
+        {
+          "id": 633,
+          "name": "Mole Creek Waste Transfer Station",
+          "address": "Mersey Hill Road, Tasmania",
+          "latitude": -41.541426,
+          "longitude": 146.451101,
+          "phone": "",
+          "city": "",
+          "state": "Tasmania",
+          "type": "Waste Facility",
+          "acceptedMaterials": [
+            "Batteries|Cars &amp; Other Vehicles|Clothes &amp; Textiles|Construction Material|Electronics|Furniture|Green Waste|Metals|Paper &amp; Cardboard|Plastics|Rubber"
+          ],
+          "openingHours": "Contact for hours",
+          "fees": {},
+          "region": "Tasmania",
+          "permalink": "https://www.rubbishtips.com.au/tasmania/mole-creek-waste-transfer-station/",
+          "content": ""
+        }
+      ]
+    }
+  ],
+  "totalLocations": 20,
+  "lastUpdated": "2025-09-17T07:15:56.844Z",
+  "source": "RubbishTipLocationsListingsExport2025September170524.csv"
+}
