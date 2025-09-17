@@ -50,15 +50,13 @@ export default function Footer({ allLocations = [], states = [] }: FooterProps) 
           
           {/* Company Info */}
           <div className="lg:col-span-1">
-            <div className="flex items-center space-x-3 mb-6">
-              <div className="w-10 h-10 bg-green-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">RT</span>
-              </div>
-              <div className="flex flex-col">
-                <span className="text-xl font-bold">RubbishTips</span>
-                <span className="text-sm text-gray-400">.com.au</span>
-              </div>
-            </div>
+<div className="mb-6">
+  <img 
+    src="/rubbish-tips-icon.png" 
+    alt="RubbishTips.com.au Logo"
+    className="h-30 w-auto"
+  />
+</div>
             
             <p className="text-gray-300 mb-6 leading-relaxed">
               Australia's most comprehensive directory of rubbish tips, transfer stations, 

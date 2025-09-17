@@ -23,15 +23,13 @@ export default function Header() {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
-          <Link href="/" className="flex items-center space-x-3">
-            <div className="w-10 h-10 bg-green-600 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-xl">RT</span>
-            </div>
-            <div className="flex flex-col">
-              <span className="text-xl font-bold text-gray-900">RubbishTips</span>
-              <span className="text-sm text-gray-600 hidden sm:block">.com.au</span>
-            </div>
-          </Link>
+<Link href="/" className="flex items-center space-x-3">
+  <img 
+    src="/rubbish-tips-logo.png" 
+    alt="RubbishTips.com.au Logo"
+    className="h-20 w-auto"
+  />
+</Link>
 
           {/* Desktop Navigation */}
           <div className="hidden lg:flex items-center space-x-8">

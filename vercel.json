@@ -4,16 +4,11 @@
       "source": "/(.*)",
       "has": [
         {
-          "type": "host",
+          "type": "host", 
           "value": "rubbishtips.com.au"
         }
       ],
       "destination": "https://www.rubbishtips.com.au/$1",
-      "permanent": true
-    },
-    {
-      "source": "/([^.]*[^/])$",
-      "destination": "/$1/",
       "permanent": true
     }
   ],
