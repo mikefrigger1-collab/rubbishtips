@@ -10,6 +10,11 @@
       ],
       "destination": "https://www.rubbishtips.com.au/$1",
       "permanent": true
+    },
+    {
+      "source": "/([^.]*[^/])$",
+      "destination": "/$1/",
+      "permanent": true
     }
   ],
   "headers": [
